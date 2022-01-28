@@ -1,5 +1,5 @@
 class Cargos2g:
-    secuencia_cargosp6 = 2
+    secuencia_cargosg = 2
     cargos = [{"codigo":1,"cargo":"Tester"},{"codigo":2,"cargo":"Director"}]
     def __init__(self,cargo_g):
         Cargos2g.secuencia_cargosg += 1
